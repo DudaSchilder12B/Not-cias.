@@ -32,6 +32,10 @@ body{
     background: none;
 }
 
+.header-mobile nav {
+    position: fixed;
+}
+
 .primeira-secao{
     margin-bottom: 4rem;
 }
